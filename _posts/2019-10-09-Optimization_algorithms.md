@@ -47,6 +47,7 @@ its 0.999 then its like saying we are averaging over the past 1000 values to upd
 
 
 $$V_0 = 0 $$
+$$
 - V_1 = \beta * V_0 + (1 - \beta) * X_1 : where X_1 is the new value we want to use to update our average.
 - V_2 = \beta * V_1 + (1 - \beta) * X_2
 - V_3 = \beta * V_2 + (1 - \beta) * X_3
