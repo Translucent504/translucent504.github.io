@@ -44,9 +44,9 @@ If we consider values over multiple iterations then we notice that
 
 - The value of beta can be seen in this way: if its 0.9 then it is like saying we are averaging over the past 10 values. if 
 its 0.999 then its like saying we are averaging over the past 1000 values to update the current value. the larger the value is the more weight we assign to previous values. This is better visualized by calculating a series of values from V_0 to V_5 or 6 and observing that all the previously calculated values are being included in the V_5 calculation:
-$$
-- V_0 = 0 
 
+
+$$V_0 = 0 $$
 - V_1 = \beta * V_0 + (1 - \beta) * X_1 : where X_1 is the new value we want to use to update our average.
 - V_2 = \beta * V_1 + (1 - \beta) * X_2
 - V_3 = \beta * V_2 + (1 - \beta) * X_3
@@ -57,6 +57,22 @@ if we substitute all the previous values into V_5:
 - V_5 = \beta * (\beta * (\beta * V_2 + (1 - \beta) * X_3) + (1 - \beta) * X_4) + (1 - \beta) * X_5
 - V_5 = \beta * (\beta * (\beta * (\beta * V_1 + (1 - \beta) * X_2) + (1 - \beta) * X_3) + (1 - \beta) * X_4) + (1 - \beta) * X_5
 - V_5 = \beta * (\beta * (\beta * (\beta * (\beta * V_0 + (1 - \beta) * X_1) + (1 - \beta) * X_2) + (1 - \beta) * X_3) + (1 - \beta) * X_4) + (1 - \beta) * X_5
+$$
+
 
 $$
-Simplifying :..
+\begin{align*}
+  & \phi(x,y) = \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right)
+  = \sum_{i=1}^n \sum_{j=1}^n x_i y_j \phi(e_i, e_j) = \\
+  & (x_1, \ldots, x_n) \left( \begin{array}{ccc}
+      \phi(e_1, e_1) & \cdots & \phi(e_1, e_n) \\
+      \vdots & \ddots & \vdots \\
+      \phi(e_n, e_1) & \cdots & \phi(e_n, e_n)
+    \end{array} \right)
+  \left( \begin{array}{c}
+      y_1 \\
+      \vdots \\
+      y_n
+    \end{array} \right)
+\end{align*}
+$$
