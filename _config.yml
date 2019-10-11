@@ -60,8 +60,8 @@ plugins:
 
 author:
   name   : "Shayaan Farooqi"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Physics Grad jumping aboard the AI train"
+  avatar : "/assets/images/bio-photo.png"
+  bio    : "Physics Grad jumping aboard the AI train."
   links:
     - label: "Home"
       icon: "fas fa-fw fa-link"
