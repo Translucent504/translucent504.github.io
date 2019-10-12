@@ -8,7 +8,6 @@ tags:
   - Notes
 ---
 
-# Optimization algorithms
 This is just a collection of improvements on the classical gradient descent algorithm from neural nets where
 the grads during backprop are computed all at once by vectorization. This classic algorithm is named Batch gradient descent.
 
@@ -61,7 +60,7 @@ if we substitute all the previous values into V_5: \\
 - V_5 = \beta * (\beta * (\beta * (\beta * (\beta * V_0 + (1 - \beta) * X_1) + (1 - \beta) * X_2) + (1 - \beta) * X_3) + (1 - \beta) * X_4) + (1 - \beta) * X_5$$
 
 
-$$
+<!-- $$
 \begin{align*}
   & \phi(x,y) = \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right)
   = \sum_{i=1}^n \sum_{j=1}^n x_i y_j \phi(e_i, e_j) = \\
@@ -76,4 +75,4 @@ $$
       y_n
     \end{array} \right)
 \end{align*}
-$$
+$$ -->
