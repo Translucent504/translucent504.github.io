@@ -53,11 +53,13 @@ V_2 = \beta * V_1 + (1 - \beta) * X_2 \\
 V_3 = \beta * V_2 + (1 - \beta) * X_3 \\
 V_4 = \beta * V_3 + (1 - \beta) * X_4 \\
 V_5 = \beta * V_4 + (1 - \beta) * X_5 \\$$
-<!-- if we substitute all the previous values into V_5: \\
+<!-- 
+if we substitute all the previous values into V_5: \\
 - V_5 = \beta * (\beta * V_3 + (1 - \beta) * X_4) + (1 - \beta) * X_5 \\
 - V_5 = \beta * (\beta * (\beta * V_2 + (1 - \beta) * X_3) + (1 - \beta) * X_4) + (1 - \beta) * X_5 \\
 - V_5 = \beta * (\beta * (\beta * (\beta * V_1 + (1 - \beta) * X_2) + (1 - \beta) * X_3) + (1 - \beta) * X_4) + (1 - \beta) * X_5 \\
-- V_5 = \beta * (\beta * (\beta * (\beta * (\beta * V_0 + (1 - \beta) * X_1) + (1 - \beta) * X_2) + (1 - \beta) * X_3) + (1 - \beta) * X_4) + (1 - \beta) * X_5$$ -->
+- V_5 = \beta * (\beta * (\beta * (\beta * (\beta * V_0 + (1 - \beta) * X_1) + (1 - \beta) * X_2) + (1 - \beta) * X_3) + (1 - \beta) * X_4) + (1 - \beta) * X_5$$ 
+-->
 
 
 <!-- $$
