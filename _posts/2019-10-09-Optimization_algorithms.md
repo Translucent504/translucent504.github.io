@@ -47,7 +47,8 @@ V_1 = \beta * V_0 + (1 - \beta) * X_1  \\
 V_2 = \beta * V_1 + (1 - \beta) * X_2 \\
 V_3 = \beta * V_2 + (1 - \beta) * X_3 \\
 V_4 = \beta * V_3 + (1 - \beta) * X_4 \\
-V_5 = \beta * V_4 + (1 - \beta) * X_5 \\$$
+V_5 = \beta * V_4 + (1 - \beta) * X_5 \\
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTI4MjM2NDhdfQ==
+eyJoaXN0b3J5IjpbLTE3MTYwODI2MTBdfQ==
 -->
