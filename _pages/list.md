@@ -1,5 +1,5 @@
 ---
-title: "Things not truly understood"
+title: "Things I don't completely understand"
 permalink: /list/
 ---
 
