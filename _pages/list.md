@@ -3,5 +3,5 @@ title: "Things not truly understood"
 permalink: /list/
 ---
 
-- [ ] a
-- [ ] b
+- [ ] Statistics for ML/AI
+- [ ] Fundamentals of ML/AI
