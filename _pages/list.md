@@ -1,7 +1,8 @@
 ---
-title: "Things I don't completely understand"
-permalink: /list/
+title: "Quest Board"
+permalink: /quests/
 ---
 
-- [ ] Statistics for ML/AI
-- [ ] Fundamentals of ML/AI
+- [ ] Develop insight and intuition for statistics.
+- [ ] Understand the theoretical fundamentals of AI/ML (Deep Learning)
+- [ ] Learn webdev needed to teach like distill.pub
