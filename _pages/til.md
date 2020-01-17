@@ -5,5 +5,7 @@ author_profile: false
 ---
 
 ## 17th January 2020
-- React is a webdev thing
+- spaCy has a pretty good displacy thing for viewing syntactic dependencies
+- How to install node on ubuntu (curl that bash thing) the bad way.
+- React is a webdev thing (_npx create-react-app_)
 - just edit the --- thing at top of md file to change [jekyll properties instead of config.yml](https://jekyllrb.com/docs/configuration/front-matter-defaults/)
