@@ -7,5 +7,5 @@ main:
     url: /tags/
   - title: "About"
     url: /about/
-  - title: "Confusion List"
-    url: /list/
+  - title: "TIL"
+    url: /til/
