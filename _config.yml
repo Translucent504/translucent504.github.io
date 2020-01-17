@@ -108,13 +108,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      
-  - scope:
-      path: "_pages/til.md"
-      type: pages
-    values:
-      layout: single
-      author_profile: false
   
 
 category_archive:
