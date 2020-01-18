@@ -16,6 +16,4 @@ The problem I have is that I can't find any theoretical basis for comparing opti
 
 Then we can argue that the amount of compute required should also factor in, the number of hyperparameters they require to be tuned should also be included etc.
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNzk0NTk2MSwtMTcxNjA4MjYxMF19
--->
+
