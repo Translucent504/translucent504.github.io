@@ -13,6 +13,7 @@ author_profile: false
     ![](https://i.imgur.com/P18Mc2B.gif)
   ```
 - Can make gif animations by making each frame with inkscape then combining..
+- Apparently plank was no revolutionary, he was a (data fitterer)[https://physicsworld.com/a/max-planck-the-reluctant-revolutionary] 
 
 ## 17th January 2020
 - spaCy has a pretty good displacy thing for viewing syntactic dependencies
