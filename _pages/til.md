@@ -10,11 +10,13 @@ author_profile: false
 - Can embed images in github like this 
   ```html
     <img src="https://i.imgur.com/P18Mc2B.gif" alt="image showing conv1d" width="500" height="500"/>
+
     ![](https://i.imgur.com/P18Mc2B.gif)
   ```
 - Can make gif animations by making each frame with inkscape then combining..
 - Apparently plank was no revolutionary, he was a [data fitterer](https://physicsworld.com/a/max-planck-the-reluctant-revolutionary) 
-
+- Also learned how to install plugins in vim using vim-plug (just put "Plug 'name of plugin'" into the .vimrc file and done. 
+- setup a markdown preview thing for vim so I can write to this file directly from the terminal.
 ## 17th January 2020
 - spaCy has a pretty good displacy thing for viewing syntactic dependencies
 - How to install node on ubuntu (curl that bash thing) the bad way.
