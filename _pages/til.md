@@ -17,6 +17,12 @@ author_profile: false
 - Apparently plank was no revolutionary, he was a [data fitterer](https://physicsworld.com/a/max-planck-the-reluctant-revolutionary) 
 - Also learned how to install plugins in vim using vim-plug (just put "Plug 'name of plugin'" into the .vimrc file and done. 
 - setup a markdown preview thing for vim so I can write to this file directly from the terminal.
+- install from .deb file in ubuntu:
+	```
+ 	sudo dpkg -i /path/to/deb/file
+	sudo apt-get install -f
+	```
+
 ## 17th January 2020
 - spaCy has a pretty good displacy thing for viewing syntactic dependencies
 - How to install node on ubuntu (curl that bash thing) the bad way.
