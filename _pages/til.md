@@ -3,6 +3,16 @@ title: "TIL"
 permalink: /til/
 author_profile: false
 ---
+## 18th January 2020
+- I have no clue how to implement conv1d... wtf is out_width / in_width and why are they not equal???? it makes sense for out channels to be different from in channels but wtf is up with widths?? isnt conv1d just supposed to sweep over the entire width???
+<img src="https://i.imgur.com/P18Mc2B.gif" alt="image showing conv1d" width="500" height="500">
+
+- Can embed images in github like this 
+  ```html
+    <img src="https://i.imgur.com/P18Mc2B.gif" alt="image showing conv1d" width="500" height="500"/>
+    ![](https://i.imgur.com/P18Mc2B.gif)
+  ```
+- Can make gif animations by making each frame with inkscape then combining..
 
 ## 17th January 2020
 - spaCy has a pretty good displacy thing for viewing syntactic dependencies
