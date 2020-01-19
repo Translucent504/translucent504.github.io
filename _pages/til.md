@@ -9,8 +9,15 @@ author_profile: false
 	gnome-terminal -e <script.sh>
 	```
 - introduction to RNN, basic neural net with some sort of memory or consideration of a series of inputs. some idea of finite response models (partially recurrent) and state space models and the idea of back propagation through time.
+- a little bit of geometric interpretation of vectors in context of applied multivariate statistics.
+- little bit of beautifulsoup4, its an easy way to parse entire html pages that you get with requests in python.
 
+	```python
+	soup = bs4(url, "html.parser")
+	soup.find("a") => returns a tag
+	```
 
+    
 ## 18th January 2020
 - I have no clue how to implement conv1d... wtf is out_width / in_width and why are they not equal???? it makes sense for out channels to be different from in channels but wtf is up with widths?? isnt conv1d just supposed to sweep over the entire width???
 <img src="https://i.imgur.com/P18Mc2B.gif" alt="image showing conv1d" width="500" height="500">
