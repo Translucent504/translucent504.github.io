@@ -3,6 +3,12 @@ title: "TIL"
 permalink: /til/
 author_profile: false
 ---
+## 19th January 2020
+- To set a keyboard shortcut to a script in ubuntu, save the script with chmod +x in some place thats included in PATH (usually ~/bin/) and add this to the keyboard shorcut command field:
+	```
+	gnome-terminal -e <script.sh>
+	```
+
 ## 18th January 2020
 - I have no clue how to implement conv1d... wtf is out_width / in_width and why are they not equal???? it makes sense for out channels to be different from in channels but wtf is up with widths?? isnt conv1d just supposed to sweep over the entire width???
 <img src="https://i.imgur.com/P18Mc2B.gif" alt="image showing conv1d" width="500" height="500">
@@ -19,7 +25,7 @@ author_profile: false
 - setup a markdown preview thing for vim so I can write to this file directly from the terminal.
 - install from .deb file in ubuntu:
 	```
- 	sudo dpkg -i /path/to/deb/file
+	sudo dpkg -i /path/to/deb/file
 	sudo apt-get install -f
 	```
 

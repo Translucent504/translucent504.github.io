@@ -7,6 +7,8 @@ main:
     url: /til/
   - title: "Quests"
     url: /quests/
+  - title: "Gaps"
+    url: /gaps/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
