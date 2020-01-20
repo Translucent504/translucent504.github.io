@@ -7,4 +7,6 @@ tags:
   - til 
 ---
 
+Just a list of stuff learnt today.
 
+<!--more-->
