@@ -3,8 +3,6 @@ main:
     url: /posts/
   - title: "About"
     url: /about/
-  - title: "TIL"
-    url: /til/
   - title: "Quests"
     url: /quests/
   - title: "Gaps"
