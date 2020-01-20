@@ -3,6 +3,8 @@ title: "TIL"
 permalink: /til/
 author_profile: false
 ---
+# DEPRECATED , TIL ARE NOW SEPARATE POST EACH DAY
+
 ## 19th January 2020
 - To set a keyboard shortcut to a script in ubuntu, save the script with chmod +x in some place thats included in PATH (usually ~/bin/) and add this to the keyboard shortcut command field:
 	```
