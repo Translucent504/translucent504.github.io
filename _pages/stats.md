@@ -6,7 +6,7 @@ permalink: /statistics/
 -->
 ## Using Right now:
 - All of Statistics (Book)
-- Mathematics for Machine Learning (Book)
+- Mathematics for Machine Learning (Book)(**GREAT BOOK** based on the few pages on SVM that I read)
 - StatQuest (Youtube)
 - Joe Blitzstein Lectures (Harvard)
 
