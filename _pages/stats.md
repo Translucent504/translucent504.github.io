@@ -4,6 +4,11 @@ permalink: /statistics/
 ---
 <!-- Here we start our quest to understand statistics
 -->
+## Using Right now:
+- All of Statistics (Book)
+- Mathematics for Machine Learning (Book)
+- StatQuest (Youtube)
+- Joe Blitzstein Lectures (Harvard)
 
 ## Resources to use:
 - [Seeing Theory](https://seeing-theory.brown.edu/basic-probability/index.html)
