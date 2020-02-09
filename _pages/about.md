@@ -6,13 +6,14 @@ permalink: /about/
 -->
 I have a degree in applied physics and I play Dota2. Now I am trying to understand all the hype around AI and Deep Learning. I believe my accumulation of knowledge is pointless if I don't to teach it to others. 
 
-# Resources I vouch for:
-- 3b1b
-- fast.ai
-- cmudl (11785)
+## Resources:
+- [MIT Missing CS Semester](https://missing.csail.mit.edu/)
+- [3blue1brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists)
+- [fast.ai](fast.ai)
+- [cmudl (11785)](http://deeplearning.cs.cmu.edu/)
 - ISL
-- distill.pub
+- [distill.pub](https://distill.pub/)
 - colah
-- michaelnielson
+- [michaelnielsen](http://michaelnielsen.org/)
 - Coursera / edX
-- statquest
+- [statquest](https://statquest.org/video-index/)
