@@ -9,7 +9,7 @@ permalink: /statistics/
 - Mathematics for Machine Learning (Book)(**GREAT BOOK** based on the few pages on SVM that I read)
 - StatQuest (Youtube)
 - Joe Blitzstein Lectures (Harvard)
-
+- [Joe Blitzstein / Jessica Hwang Book](http://probabilitybook.net/)
 ## Resources to use:
 - [ ] [Seeing Theory](https://seeing-theory.brown.edu/basic-probability/index.html)
 - [ ] [Probabilistic World Blog](https://www.probabilisticworld.com/what-is-probability/)
@@ -32,4 +32,5 @@ permalink: /statistics/
 - Introduction to Probability - Bertsekas and Tsitsiklis
 - Intuitive Introductory statistics - Wolfe and Schneider (Supports Idea of pie charts wtf.. idk about this)
 - Introduction to Statistical Learning - Hastie, Tibshirani
+- [Joe Blitzstein / Jessica Hwang Book](http://probabilitybook.net/)
 - Elements of Statistical Learning - Hastie, Tibshirani
