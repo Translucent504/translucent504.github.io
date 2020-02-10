@@ -9,3 +9,6 @@ main:
     url: /tags/ 
   - title: "Statistics"
     url: /statistics/
+  - title: "Resume"
+    url: /resume/
+
