@@ -4,5 +4,5 @@ permalink: /resume/
 ---
 <!-- Maybe put your face in the light ..here
 -->
- <embed src="/assets/shayaan-resume.pdf" width="600px" height="500px" />
+ <embed src="/assets/shayaan-resume.pdf" />
 
