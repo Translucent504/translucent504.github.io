@@ -11,3 +11,5 @@ main:
     url: /statistics/
   - title: "Resume"
     url: /resume/
+  - title: "Quantum"
+    url: /quantum/
