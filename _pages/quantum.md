@@ -1,6 +1,7 @@
 ---
 title: "Learning Quantum Computing"
 permalink: /quantum/
+classes: wide
 ---
 <!-- Here we start our quest to understand quantum computing, resource aggregation.
 -->
