@@ -8,7 +8,7 @@ permalink: /statistics/
 - All of Statistics (Book)
 - Mathematics for Machine Learning (Book)(**GREAT BOOK** based on the few pages on SVM that I read)
 - StatQuest (Youtube)
-- Joe Blitzstein Lectures (Harvard)
+- [Joe Blitzstein Lectures (Harvard)](https://projects.iq.harvard.edu/stat110/strategic-practice-problems)
 - [Joe Blitzstein / Jessica Hwang Book](http://probabilitybook.net/)
 ## Resources to use:
 - [ ] [Seeing Theory](https://seeing-theory.brown.edu/basic-probability/index.html)
