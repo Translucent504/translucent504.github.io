@@ -23,7 +23,7 @@ tags:
 ## Theorists:
   1. [Ibn-i-Khaldoon 1332-1406](#ibn-i-khaldoon)
   2. [Herbert Spencer 1820-1903](#herbert-spencer)
-  3. August Comte
+  3. [August Comte 1798-1857](#august-comte)
   4. Emile Dukheim
   5. Max Weber
   6. Karl Marx
@@ -98,4 +98,4 @@ tags:
       - His ideal society had individuals pursuing their interests without being hindered by the state in anyway.
       
 ### August Comte:
-  - 
+  -  
