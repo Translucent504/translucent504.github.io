@@ -1,6 +1,7 @@
 ---
 title: "Sociological Theorists Summary"
 classes: wide
+author_profile: true
 excerpt_separator: "<!--more-->"
 categories:
   - today-i-learned
@@ -67,6 +68,23 @@ tags:
       - Military societies have a centralized government, Industrial societies have decentralized governments.
       - Military societies have economic autonomy. Industrial societies rely on each other economically.
       - In Military societies the state dominates over all organizations. Industrial societies have a very limited role played by the state.
+      - **Characteristics of a Militant Society**
+        - Entire structure of society is molded into military structure. Entire nation is a silent army. Defensive and offensive military action is predominant.
+        - Military head is also the political head and has complete control over all his subjects.
+        - Rigid hierarchy of power is throughout this society. Economic and material rewards are closely linked with social ranks, more power = richer.
+        - Religious beliefs in this society also support the idea of a supreme authority. The religion itself is the same hierarchical organization as the society and the central Head of the society is also seen as the Ecclesastical(religous) Head.
+        - Rigorous discipline is prevalent in all manners of life. State has full authority to interfere in lives of citizens. There are no individual rights and the state can not be questioned.
+        - All members of the society are forced to cooperate (it is compulsory).
+      - ** Characteristics Of Industrial Society**
+        - Each individual has personal rights and tried to maintain them.
+        - Regulatory system is separate from the political system.
+        - Free institutions are given security to grow without interference.
+        - Less rigid class structure.
+        - Less importance of religion and hierarchy
+        - Individuals are the main concern of this society and the role of government is to ensure that the individual prospers.
+        - The individual has the right to oppose an irresponsible government.
+        - There is voluntary cooperation among citizens and they can interact using any contracts with each other as they wish.
+
   - Spencer also presented **Organic Analogy**. Where he considered the human society to be a single biological organism.
   - Following his organic analogy spencer considered various parts of society like state and economy to be like organs in the human body (heart/lungs/kidneys) which work interdependently and are necessary for the whole organism to function properly.
   - He further took ideas from biology and supported **Social Darwinism** which is basically Charles Darwin's theory of evolution from nature applied to sociology.
@@ -79,4 +97,5 @@ tags:
       - Spencer argued that no one should interfere in the natural process of selection in society and that nature is more intelligent than man.
       - His ideal society had individuals pursuing their interests without being hindered by the state in anyway.
       
-
+### August Comte:
+  - 
