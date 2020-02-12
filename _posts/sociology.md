@@ -15,9 +15,9 @@ tags:
 <!--more-->
 
 ## Sociological Perspectives:
-    1. Structural Functionalism
-    2. Symbolic Interactions
-    3. Conflict
+  1. Structural Functionalism
+  2. Symbolic Interactions
+  3. Conflict
 
 ## Theorists:
     1. [Ibn-i-Khaldoon](#ibn-i-khaldoon)
