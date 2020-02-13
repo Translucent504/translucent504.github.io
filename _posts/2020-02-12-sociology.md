@@ -24,7 +24,7 @@ tags:
   3. [August Comte 1798-1857](#august-comte)
   4. [Emile Durkheim 1858-1917](#emile-durkheim)
   5. [Max Weber 1864-1920](#max-weber)
-  6. Karl Marx
+  6. [Karl Marx](karl-marx)
   7. Parson
 
 ## Ibn-i-Khaldoon:
@@ -73,6 +73,7 @@ tags:
         - Religious beliefs in this society also support the idea of a supreme authority. The religion itself is the same hierarchical organization as the society and the central Head of the society is also seen as the Ecclesastical(religous) Head.
         - Rigorous discipline is prevalent in all manners of life. State has full authority to interfere in lives of citizens. There are no individual rights and the state can not be questioned.
         - All members of the society are forced to cooperate (it is compulsory).
+        
       - **Characteristics of An Industrial Society**
         - Each individual has personal rights and tried to maintain them.
         - Regulatory system is separate from the political system.
@@ -121,4 +122,30 @@ tags:
   - Considered religion to be the initial source of social solidarity and collective life. Described religion to act as a differentiating force between right and wrong. It allows man to separate sacred things from infance objects. Participation in Sacred ceremonies elevated the position of man in society. Without religion there would be no distinction of good and bad. Social and cultural norms would cease to exist.
 
 ## Max Weber
-  - **Social Action** 
+  - Introduced idea of **Social Action** and redefined sociology to be the study of social action. Social action is anything that affects society.
+  - Action is considered to be human behavior that has the purpose to convey some subjective meaning, this means that actions have a purpose which is called Meaningful action.
+  - Meaningful action should be observed and measured by using the princples of statistics since there is uncertainty about the subjective meaning for the action.
+  - Human behavior is complex and difficult / impossible to measure using math and statistics. The same is true for motives of an action.
+  - Presented 4 types of social action:
+    1. **Purposeful Logical Action** is carried out to achieve a certain well defined result and it depends on the ability of the actor. Different social situations may have different sources and purposes, However the actor is free to select any source based on his own capabilities.
+    2. **Value Oriented Action** is something that has inherent or implied value associated with it. Like praying in religions.
+    3. **Affective Action** involves emotions in the selection of the purpose and sources rather than raw capabilities. Such actions are very emotional in nature and are therefore mostly irrational and illogical. These actions are free from scientific observation and are a key part of cultural values of society.
+    4. **Traditional Action** is according to customs and ceremonies of society. They don't necessarily have any purpose decided by the actor, instead the action is performed simply as part of tradition."_This is the way_". These actions involve feelings and norms and are normally taught as part of family and educational institutions.
+  - Presented 3 types of authority:
+    1. **Bureaucratic Authority** is legal authority found in formal offices and depicted by the rank of the officer. The power of the officer is determined by the law that authorized him.
+    2. **Traditional Authority** is found in beliefs, sacred norms and traditions. Priests, fathers or other religious figures are given authority as part of tradition.
+    3. **Charismatic Authority** is the authority of an extraordinary person. Such authority is given to people who display wisdom, saintliness, knowledge, skill or charisma.
+  - Theory of Bureaucracy, presented ideas on the structure of government and its offices. Defined it as a hierarchy. A rigid division of labor is established that clearly identifies regular tasks and duties of the particular bureaucratic system. Regulations describe firmly established chains of command and the duties and capacity to coerce others to comply. Hiring people with particular, certified qualifications supports regular and continuous execution of the assigned duties.
+  - Characteristics of a Bureaucracy:
+    1. Specialized roles
+    2. Recruitment based on merit (e.g., tested through open competition)
+    3. Uniform principles of placement, promotion, and transfer in an administrative system
+    4. Careerism with systematic salary structure
+    5. Hierarchy, responsibility and accountability
+    6. Subjection of official conduct to strict rules of discipline and control
+    7. Supremacy of abstract rules
+    8. Impersonal authority (e.g., office bearer does not bring the office with him)
+    9. Political neutrality
+
+## Karl Marx
+  - CONFLICT....
