@@ -24,7 +24,7 @@ tags:
   1. [Ibn-i-Khaldoon 1332-1406](#ibn-i-khaldoon)
   2. [Herbert Spencer 1820-1903](#herbert-spencer)
   3. [August Comte 1798-1857](#august-comte)
-  4. Emile Dukheim
+  4. [Emile Durkheim 1858-1917](#emile-durkheim)
   5. Max Weber
   6. Karl Marx
   7. Parson
@@ -99,4 +99,15 @@ tags:
       - His ideal society had individuals pursuing their interests without being hindered by the state in anyway.
       
 ### August Comte:
-  -  
+  - Introduced **Social Physics** to help solve and understand social problems.
+  - Divided Science into **Theoretical Science** and **Applied Science**.
+  - Believed that all sciences develop in **3 Stages**:
+    1. **Theological** Stage where all phenomena is accepted as the result of supernatural or religious events. Everything from religion is accepted without any questioning or doubts.
+    2. **Metaphysical** Stage is when people start to write down their observations and have discussions about why they may be happening. This is where books are written.
+    3. **Positivism** Stage is the final stage at which actual scientific experimentation and observations with deduction, induction and measurement is done. In this stage nothing is believed without evidence by experimentation and observation. All claims go through verification until there is consensus.
+  - Also presented **Static** and **Dynamic** Sociology. 
+    - Static sociology deals with the study of a society which is in order. This order is the result of consensus and cohesiveness among all the elements of society which can include groups and institutions and organizations. Social structure is maintained.
+    - Dynamic sociology is the study of social change. The natural condition of social change which is found in every society is called **evolution**. If it is according to people's will then it is called social progress. However, if social change is brought by force it is called a **revolution**. The change starts from the mind and ideas of individuals and results in changes in moral, political and economic structure of the society.
+
+### Emile Durkheim:
+  - Presented **Social Facts** ...
