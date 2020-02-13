@@ -75,6 +75,7 @@ tags:
         - Religious beliefs in this society also support the idea of a supreme authority. The religion itself is the same hierarchical organization as the society and the central Head of the society is also seen as the Ecclesastical(religous) Head.
         - Rigorous discipline is prevalent in all manners of life. State has full authority to interfere in lives of citizens. There are no individual rights and the state can not be questioned.
         - All members of the society are forced to cooperate (it is compulsory).
+
       - ** Characteristics Of Industrial Society**
         - Each individual has personal rights and tried to maintain them.
         - Regulatory system is separate from the political system.
