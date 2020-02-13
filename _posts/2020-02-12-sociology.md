@@ -29,7 +29,7 @@ tags:
   6. Karl Marx
   7. Parson
 
-### Ibn-i-Khaldoon:
+## Ibn-i-Khaldoon:
   - Introduced the scientific method to social sciences.
   - Presented Concept of **AL-ASABIYA** in his book **MOKADMA**.
   - Al-Asabiya is the force that unites people.
@@ -51,7 +51,7 @@ tags:
     3. Rise and fall of nations is in cycles, when one nation falls: another nation rises to replace it.
   - Most famous work **Ilmul-Imran** later turned into **Imraniyat (sociology)**.
 
-### Herbert Spencer:
+## Herbert Spencer:
   - Presented **Evolutionary Theory** or **Laws of Evolution**.
   - Every society evolves from simple -> complex and homogenous -> heterogenous
   - Divided evolution into 2 main categories:
@@ -98,7 +98,7 @@ tags:
       - Spencer argued that no one should interfere in the natural process of selection in society and that nature is more intelligent than man.
       - His ideal society had individuals pursuing their interests without being hindered by the state in anyway.
       
-### August Comte:
+## August Comte:
   - Introduced **Social Physics** to help solve and understand social problems.
   - Divided Science into **Theoretical Science** and **Applied Science**.
   - Believed that all sciences develop in **3 Stages**:
@@ -109,5 +109,5 @@ tags:
     - Static sociology deals with the study of a society which is in order. This order is the result of consensus and cohesiveness among all the elements of society which can include groups and institutions and organizations. Social structure is maintained.
     - Dynamic sociology is the study of social change. The natural condition of social change which is found in every society is called **evolution**. If it is according to people's will then it is called social progress. However, if social change is brought by force it is called a **revolution**. The change starts from the mind and ideas of individuals and results in changes in moral, political and economic structure of the society.
 
-### Emile Durkheim:
-  - Presented **Social Facts** ...
+## Emile Durkheim:
+  - Presented **Social Facts** 
