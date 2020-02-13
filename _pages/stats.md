@@ -22,6 +22,7 @@ permalink: /statistics/
 - [ ] [Joe Blitzstein lectures youtube](https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
 - [ ] [Boundless Statistics](https://courses.lumenlearning.com/boundless-statistics/)
 - [ ] [Statistics stackexchange](https://stats.stackexchange.com/)
+- [ ] [Visualization Maximum Likelihood Estimation](https://rpsychologist.com/d3/likelihood/)
 
 ## Books:
 - All of Statistics Larry Wasserman
