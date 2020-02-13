@@ -4,10 +4,8 @@ classes: wide
 author_profile: true
 excerpt_separator: "<!--more-->"
 categories:
-  - today-i-learned
   - educational
 tags:
-  - til 
   - sociology
 ---
 
@@ -75,8 +73,7 @@ tags:
         - Religious beliefs in this society also support the idea of a supreme authority. The religion itself is the same hierarchical organization as the society and the central Head of the society is also seen as the Ecclesastical(religous) Head.
         - Rigorous discipline is prevalent in all manners of life. State has full authority to interfere in lives of citizens. There are no individual rights and the state can not be questioned.
         - All members of the society are forced to cooperate (it is compulsory).
-
-      - ** Characteristics Of Industrial Society**
+      - **Characteristics of An Industrial Society**
         - Each individual has personal rights and tried to maintain them.
         - Regulatory system is separate from the political system.
         - Free institutions are given security to grow without interference.
@@ -124,4 +121,4 @@ tags:
   - Considered religion to be the initial source of social solidarity and collective life. Described religion to act as a differentiating force between right and wrong. It allows man to separate sacred things from infance objects. Participation in Sacred ceremonies elevated the position of man in society. Without religion there would be no distinction of good and bad. Social and cultural norms would cease to exist.
 
 ## Max Weber
-  - **Social Action** ....
+  - **Social Action** 
