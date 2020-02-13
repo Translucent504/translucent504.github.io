@@ -25,7 +25,7 @@ tags:
   2. [Herbert Spencer 1820-1903](#herbert-spencer)
   3. [August Comte 1798-1857](#august-comte)
   4. [Emile Durkheim 1858-1917](#emile-durkheim)
-  5. Max Weber
+  5. [Max Weber 1864-1920](#max-weber)
   6. Karl Marx
   7. Parson
 
@@ -103,11 +103,25 @@ tags:
   - Divided Science into **Theoretical Science** and **Applied Science**.
   - Believed that all sciences develop in **3 Stages**:
     1. **Theological** Stage where all phenomena is accepted as the result of supernatural or religious events. Everything from religion is accepted without any questioning or doubts.
-    2. **Metaphysical** Stage is when people start to write down their observations and have discussions about why they may be happening. This is where books are written.
+    2. **Metaphysical** Stage is when people start to write down their observations and have discussions about why they may be happening. This is where books are written. This is mainly a transitional stage where people are moving towards scientific lines of questioning and moving away from theology and religious beliefs.
     3. **Positivism** Stage is the final stage at which actual scientific experimentation and observations with deduction, induction and measurement is done. In this stage nothing is believed without evidence by experimentation and observation. All claims go through verification until there is consensus.
   - Also presented **Static** and **Dynamic** Sociology. 
     - Static sociology deals with the study of a society which is in order. This order is the result of consensus and cohesiveness among all the elements of society which can include groups and institutions and organizations. Social structure is maintained.
     - Dynamic sociology is the study of social change. The natural condition of social change which is found in every society is called **evolution**. If it is according to people's will then it is called social progress. However, if social change is brought by force it is called a **revolution**. The change starts from the mind and ideas of individuals and results in changes in moral, political and economic structure of the society.
 
 ## Emile Durkheim:
-  - Presented **Social Facts** 
+  - Presented **Social Facts** as the main elements to be studied by sociology. He is considered to be the founder of **Structural Functionalism** which is a paradigm of studying sociology where the large scale view is considered instead of the individuals.
+  - He defined social facts to be anything in society that puts external pressure on a member of society to act in a certain way. Examples of social facts can be culture, morals, traditions, norms, manners, guiding principles and beliefs.
+  - **Collective Conscience** is ....
+  - Also presented the theory of **Social Solidarity**. Social solidarity can be further divided into **Mechanical** and **Organic** solidarity.
+    - Mechanical Solidarity is found in traditional and rural societies where everyone has very similar experiences. The members of society have similar economic status, similar beliefs, common values and culture. Such a society is very homogenous and its members have a high degree of solidarity or unity due to all the similarity. Collective Conscience is very strong in this society.
+    - Organic Solidarity is found in urban societies where social change is very rapid. Customs and fashions are changing all the time. There is a very high degree of _Division of Labour_ and specialization so people have very different professions and experiences. Interactions in this society are very contractual and the feeling of mutual benefit is the main reason for any solidarity. Collective Conscience is very weak in this society.
+  - This theory of social solidarity is similar to the Al-Asabiya presented by [Ibn-Khaldoon.](#ibn-khaldoon)
+  - Also presented the **Theory of Suicide** where he described 3 types of suicide:
+    1. **Egoistic Suicide** occurs when group solidarity grows weak. Typically seen in individuals who stop taking interest in matters of society or family and the society also stops taking interest in the matters of the individual. The individual feels isolated from society and considers life and death to be equal. This is a situation where social norms fail to put appropriate pressure on the members of society. Such suicide is found more in Organic societies than Mechanical societies.
+    2. **Anomic Suicide** occurs when society undergoes rapid changes. This results in the norms and manners of society being broken and individuals are unable to adjust themselves which results in a normative gap. Social laws are considered weak in this situation since they fail to control the behavior of the individual. Society tends to fall into despair and there is uncertainty about the future. Lawlessness prevails, business slows down, projects get cancelled or postponed, marriages are postponed. Social norms are shattered. Disorganization is prevailent.
+    3. **Altruisitc Suicide** occurs when the society has a very high degree of group solidarity. The people consider the interests of the group to have higher priority over the interests of the individual. An example would be the old people in northern cold regions of Tundra who kill themselves so that they would not be a burden on the limited resources of the society. In modern society soldiers who willingly register for war are committing Altruisitc suicide. In religion this idea of dying for the greater cause like **Jihad** in muslims is also found.
+  - Considered religion to be the initial source of social solidarity and collective life. Described religion to act as a differentiating force between right and wrong. It allows man to separate sacred things from infance objects. Participation in Sacred ceremonies elevated the position of man in society. Without religion there would be no distinction of good and bad. Social and cultural norms would cease to exist.
+
+## Max Weber
+  - **Social Action** ....
