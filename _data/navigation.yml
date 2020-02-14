@@ -13,3 +13,5 @@ main:
     url: /resume/
   - title: "Quantum"
     url: /quantum/
+  - title: "Notes"
+    url: /notes/
