@@ -194,4 +194,19 @@ tags:
         9. Revolution. When class struggle reaches its peak there is a violent revolution which breaks the structure of the Capitalist society. This is most likely to occur during an economic crisis.
         10. Dictatorship of the Proletariat. After a revolution, the proletariat form a social dictatorship. The Bourgeoisie lose all power.
         11. Inaugration of the communist society. Finally the workers create a socialist society where means of production are publicly owned. There is no exploitation because nobody owns anything and everybody owns everything.
-
+  - **Dream of a Classless Society**:
+    - No exploitation and conflicts.
+    - No opposing interests.
+    - No antagonistic classes or strata.
+  - **Alienation**:
+    - Feeling of powerlessness and isolation.
+    - Individual feels estranged and disconnected from society.
+    - Comes due to lack of meaningful and creative work.
+    - Feeling of lack of control over the social world.
+    - 4 Aspects of alienation:
+        1. Alienation from the object that worker produces.
+        2. Alienation from process of production.
+        3. Alienation from himself.
+        4. Alienation from the community.
+    - Alienation devalues and dehumanizes a worker.
+    - Extreme divison of labour causes Alienation due to extremely limited role of individual and lack of responsibility or right to make meaningful decisions.
