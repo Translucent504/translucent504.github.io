@@ -164,10 +164,22 @@ tags:
     5. All aspects of society are determined by the forces of productivity. **Modes of Production** determine social, political and intellectual life. Changes in the modes of production are what bring about social transformations.
   - **Modes of production and Social Structures**:
     - Society and its structures depend on the modes of production and it can be seen as 5 stages of development:
-        1. Primitive society with Primitive[Asiatic] Modes of Production. This stage has no private property and production is owned by the community.
+        1. Primitive society with Primitive[Asiatic] Modes of Production. This stage has no private property and production is owned by the community.This is the only stage which Marx claims to be the example of a classless society.
         2. Ancient society with Ancient modes of Production. This stage has slavery and one class owns the slaves and the means of production and they receive everything while slaves get nothing.
         3. Feudal Society with Feudal Modes of Production. Feudal lords and aristocratic landowners exploit the peasants who also do not own means of production.
         4. Capitalist Society and Capitalist Modes of Production. The capitalists own factories and industries, They also control all the wealth while their workers do not own means of production and are exploited as wage-slaves or tools.
         5. Communist Society and Commmunist Modes of Production. In the communist society the means of production are owned by the society. This stage is found when the industrial workers revolt.
   - Marx's theory of **Social Change**: 
-    - Father of **Conflict** Thoery.
+    - Father of **Conflict** Theory. Marx believed that class struggle was the driving force of social change. As is displayed in his **Communist Manifesto**.
+    - Marx considered society to be fundamentally dynamic not static and all changes were driven by conflict between social classes like Landlord vs Peasant, Owner vs Slave, Capitalist vs Industrial Worker etc.
+  - Marxian Theory of **Social Class**:
+    - __Class is the manifestation of Economic Differentiation__. According to Marx the definition of social class is economic in nature.
+    - Class is not determined by Income or Occupation, It is determined by the position and function of the individual in the process of production. Thus a Class is defined as all people who share a common relationship to the means of economic production.
+    - There are those who own the means of production : __Slave Owners, Feudal Landowners, Owners of Factories and Captial__. They all belong to the same social class. This is the dominant class.
+    - There are those who work for the owners of means of production: __Slaves, Peasants, Workers__. This is the subordinate class.
+    - The relationship between the 2 classes is not just of dominance and subordination but also of exploitation. The workers do all the hard work and the owners get all the benefit and surplus without any of the hard work.
+    - In a capitalist society the dominant class is called the **Bourgeoisie** and the workers are called **Proletariat**.
+    - Classes do not exist in the primitive communist society. They start to come into existence when the productive capacity of society expands beyond the level required for subsistence.
+  - Marxian Theory of Class and  Class Struggle or Class Conflict:
+    - The idea of class war emerges from dialectical materialism and surplus value.
+    
