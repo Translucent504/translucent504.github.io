@@ -181,5 +181,17 @@ tags:
     - In a capitalist society the dominant class is called the **Bourgeoisie** and the workers are called **Proletariat**.
     - Classes do not exist in the primitive communist society. They start to come into existence when the productive capacity of society expands beyond the level required for subsistence.
   - Marxian Theory of Class and  Class Struggle or Class Conflict:
-    - The idea of class war emerges from dialectical materialism and surplus value.
-    
+    - The idea of class war emerges from dialectical materialism and surplus value and the proof of this is visible throughout history.
+    - Main aspects of Class Conflict:
+        1. Development of the Proletariat.Capital is gained from the exploitation of the masses. The capitalist economic systems transform the masses ino workers and inculcated in them an awareness of common interest and a common consciousness. Thus the workers keep working and the Wealthy keep getting more and more capital.
+        2. Importance of Property. An individual's behavior is determined by his relation to property. Classes are determined based on the relation of an individual to the means of production. Capitalists are the ones who own the means of production and proletariat do not. Property divisions are crucial breaking lines in the class structure.
+        3. Identification of Economic and Political Power. Political power emerges from economic power. The ruling class has power because it controls the means of production. The political and legal systems reflect the ruling class interests and laws are made to serve the capitalists in charge.
+        4. Polarisation of Classes. Since there are only 2 classes : working class and the Capitalists. There is going to be a high degree of polarization.
+        5. Theory of Surplus Value. Capitalists exploit the workers to generate surplus wealth and keep this surplus for themselves as __Profit__. The workers get no share of this profit. This sense of exploitation without reward is the main source of conflict between the classes.
+        6. Pauperisation. Poverty is the result of exploitation and not scarcity. The rich get richer and the poor and working class continue to get poorer.
+        7. Alienation. The extreme exploitation results in inhuman working conditions and results in increased alienation of man. Workers feel like they have no sense of control over the social world. A worker is considered a small cog in the large economic machine and feels as if his existence is meaningless.
+        8. Class Solidarity and Antagonism. As the working class grows a common consciousness their class solidarity becomes crystallized. The working class bands together to form unions and associations to safeguard their interests. This can lead to riots and revolutions.
+        9. Revolution. When class struggle reaches its peak there is a violent revolution which breaks the structure of the Capitalist society. This is most likely to occur during an economic crisis.
+        10. Dictatorship of the Proletariat. After a revolution, the proletariat form a social dictatorship. The Bourgeoisie lose all power.
+        11. Inaugration of the communist society. Finally the workers create a socialist society where means of production are publicly owned. There is no exploitation because nobody owns anything and everybody owns everything.
+
