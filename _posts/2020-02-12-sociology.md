@@ -24,8 +24,8 @@ tags:
   3. [August Comte 1798-1857](#august-comte)
   4. [Emile Durkheim 1858-1917](#emile-durkheim)
   5. [Max Weber 1864-1920](#max-weber)
-  6. [Karl Marx](karl-marx)
-  7. Parson
+  6. [Karl Marx](#karl-marx)
+  7. [Parson](#parson)
 
 ## Ibn-i-Khaldoon:
   - Introduced the scientific method to social sciences.
@@ -210,3 +210,29 @@ tags:
         4. Alienation from the community.
     - Alienation devalues and dehumanizes a worker.
     - Extreme divison of labour causes Alienation due to extremely limited role of individual and lack of responsibility or right to make meaningful decisions.
+
+## Parson:
+  - Structional Functionalist
+  - Continued With **Organic Analogy**. Considered society to be like an organism where institutions are organs. Some main aspects:
+    - Institutions have a unique function.
+    - All institutions work together without conflicts.
+    - Institutions are interdependent.
+    - Institutions have identifiable boundaries.
+    - The network of institutions together is greater than any institution by itself.
+  - Institutions perform positive functions.
+    - They promote **Value Consensus**. This means agreement on the shared values of society. Important Values are a belief in work ethic and a belief in meritocracy.
+    - The family is responsible for passing basic norms and values of society.
+    - Education integrates individuals into a wider society. This provides indivudals with a sense of belonging.
+    - Other institutions regulate individual behavior like police.
+  - Societies have **Functional Prerequisites** inorder to survive.
+  - 4 Main Functional Prerequisites:
+    1. Adaptation. Adapt to the environment and the production of goods and services.
+    2. Goal Attainment. Decide what goals society as a whole should aim to achieve.
+    3. Integration. Achieve social cohesion.
+    4. Latency. Socialise the young into shared values.
+  - Needs of the society must be met before the needs of the indivudals.
+  - Social change is due to social evolution:
+    - Societies evolve from simple to complex.
+    - Complex societies are better because they are able to adapt better to changes in environment.
+    - Complex societies are also more productive since they can exploit a wider range of talents because they are meritocratic.
+    - Initially technological and economic changes result in societies evolving after which societal change is driven by values.
