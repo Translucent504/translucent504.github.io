@@ -148,4 +148,27 @@ tags:
     9. Political neutrality
 
 ## Karl Marx
-  - CONFLICT....
+  - Marx's theories are based on the idea of a **dialectic**.
+  - Dialectic philosophy was originally presented by G.W.F. Hegel.
+  - Dialectic philosophy has the central idea based on contradictions. According to Hegel contradictions in understanding and goals is what drives historical change. Hegel considered these contradictions to be philosophical and primarily in the minds of the people.
+  - Marx disagreed with _Hegellian idealism_ and instead considered the physical matter to be the primary way to resolve conflicts and contradictions this is called **Dialectic Materialism**.
+  - **Thesis, Antithesis and Synthesis** are 3 main aspects of dialectic Materialism. The dominant idea in an age is called the **Thesis** which is opposed by an **Anti-Thesis** and eventually after conflict these ideas are combined with shared values into a **Synthesis**. These conflicting ideas are never equally balanced and this keeps resulting in historical change and revolution.
+  - Marx wanted to understand History and how human society evolved and for this purpose he utilized **Historic Materialism** or the **Materialistic Interpretation of History**. This is basically the application of dialectic materialism to understanding history where we consider humans as requiring food, water and shelter primarily and all other social, political and religious conflicts are placed secondary.
+  - This historic materialism is considered to be an economic Interpretation of history and has the following aspects:
+    1. Material and economic conditions are more important than idealogical or spiritual things.
+    2. The structure of society is determined by its economic structure. This infrastructure consists of 2 things:
+        1. Material forces of production
+        2. Relations of production
+    3. The economic infrastructure is the foundation for all other structures like educational, social, political, religious and legal. This network of other structures is called **Super-Structure**.
+    4. Historical development is associated with forces of conflict between **Forces of Production** vs **Relations of Production**.
+    5. All aspects of society are determined by the forces of productivity. **Modes of Production** determine social, political and intellectual life. Changes in the modes of production are what bring about social transformations.
+  - **Modes of production and Social Structures**:
+    - Society and its structures depend on the modes of production and it can be seen as 5 stages of development:
+        1. Primitive society with Primitive[Asiatic] Modes of Production.
+        2. Ancient society with Ancient modes of Production
+        3. Feudal Society with Feudal Modes of Production.
+        4. Capitalist Society and Capitalist Modes of Production.
+        5. Communist Society and Commmunist Modes of Production.
+
+  - Father of **Conflict** Thoery.
+  - 
