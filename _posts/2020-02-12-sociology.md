@@ -2,11 +2,10 @@
 title: "Sociological Theorists Summary"
 toc: true
 toc_sticky: true
-classes: wide
 author_profile: true
 excerpt_separator: "<!--more-->"
 categories:
-  - educational
+  - Educational
 tags:
   - sociology
 ---
