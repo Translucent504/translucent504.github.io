@@ -1,3 +1,3 @@
 # Repo for Blog
 
-translucent504.github.io
+[Link to site](translucent504.github.io)
