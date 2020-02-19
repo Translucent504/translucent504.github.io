@@ -3,6 +3,7 @@ title: "Sociological Theorists Summary"
 toc: true
 toc_sticky: true
 author_profile: true
+comments: true
 excerpt_separator: "<!--more-->"
 categories:
   - Educational
