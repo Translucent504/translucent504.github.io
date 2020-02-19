@@ -23,6 +23,12 @@ twitter_username: ShayaanFarooqi
 github_username: translucent504
 minimal_mistakes_skin: contrast # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise" "default"
 
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "translucent504-github-io" 
+
+
 search: true
 
 # Build settings
