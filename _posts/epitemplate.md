@@ -4,7 +4,8 @@ excerpt_separator: "<!--more-->"
 categories:
   - programming-interviews
 tags:
-  - EPI 
+  - EPI
+  - primitive-types
 ---
 
 >  - Elements of Programming Interviews (EPI) 
