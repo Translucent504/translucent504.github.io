@@ -14,3 +14,4 @@ permalink: /ideas/
 
 - [ ] [Add Background music to your website... xD](https://www.youtube.com/watch?v=ZKFwQFBwQFU)
 - [ ] use [distill.pub's template and guide for educational posts](distill.pub/guide)
+- [ ] The square box math paper that we used to have as children, is pretty good for debugging and dry running algorithms since it facilitates making arrays with clean box separations etc. and allows to keep track of variables and whatnot....
