@@ -19,9 +19,9 @@ tags:
 He is known as the **Father of Economics / Capitalism**. Also known for his book **Wealth of Nations** as the bible of Capitalism. 
 
 ## Key Ideas:
-- [Importance of Free markets.](importance-of-free-markets)
-- [Divison of Labour](division-of-labour)
-- [Gross Domestic Product (GDP)](gross-domestic-product)
+- [Importance of Free markets.](#importance-of-free-markets)
+- [Divison of Labour](#division-of-labour)
+- [Gross Domestic Product (GDP)](#gross-domestic-product)
 
 ### Importance of Free Markets
 Smith stated it was best to minimize the role of government intervention and taxation in free markets. He considered the government responsible for breaking up naturally-occurring monopolies, enforcing contracts and patent law, encouraging innovation, providing public works such as roads and bridges, educating the middle classes, defense and to provide and institutional framework that promotes free and fair competition. In a  free market:
