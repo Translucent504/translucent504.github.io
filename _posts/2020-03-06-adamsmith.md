@@ -32,7 +32,10 @@ Smith stated it was best to minimize the role of government intervention and tax
   - This results in an equilibrium in supply and demand.
   - There is an emergent unintended consequence of every individual's self interested behavior.
   - Scarce resources get allocated properly with some sort of an *Invisible Hand*.
+  - Proper allocation of resources means that all suppliers don't waste scarce resources by producing goods that no one is willing to buy.
+  - Instead, working in their self-interest to maximize their wealth, they produce goods that have the most demand and they can produce cheaply.
   - Smith argues that it is best for sellers to act in their self interest rather than for charity.
+
 
 ### Division of Labour
 Smith argued that division of labour and specialization encouraged prosperity. The process of manufacturing goods can be divided into simpler tasks. Each individual cannot do all tasks perfectly however an individual can specialize and focus on becoming an expert in a handful of tasks based on his skills. This increases productivity.
