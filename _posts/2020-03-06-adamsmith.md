@@ -9,6 +9,10 @@ categories:
 tags:
   - economics
 ---
+<script src="https://distill.pub/template.v1.js"></script>
+
+<dt-article>
+  <h1>Hello World</h1>
 
 >Adam Smith: The other side of Communism?
 
@@ -66,4 +70,5 @@ The Invisible Hand:
 ## References:
 1. [Econ Interest.com](http://econintersect.com/pages/contributors/contributor.php?post=201807210141)
 2. [bbc](https://www.bbc.co.uk/sounds/play/w3csvsfb)
-3. 
+
+</dt-article>
