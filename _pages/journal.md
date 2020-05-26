@@ -1,6 +1,6 @@
 ---
 title: "Journal"
-layout: default
+layout: archive
 permalink: /journal/
 author_profile: false
 ---
