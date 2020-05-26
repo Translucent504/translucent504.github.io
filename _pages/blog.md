@@ -7,7 +7,7 @@ author_profile: false
 
 
 <div class="entries-{{ page.entries_layout | default: 'list' }}">
-          {% assign posts = site.categories.Educational | concat: site.tags.blog %}
+          {% assign posts = site.categories.Educational %}
           
           {% for post in posts %}
             {% include archive-single.html type=page.entries_layout %}
