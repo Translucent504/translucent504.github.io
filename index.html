@@ -1,7 +1,38 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: home
-author_profile: true
+layout: splash
+permalink: /
+hidden: true
+header:
+  overlay_color: "#5e616c"
+  overlay_image: assets/images.place.png
+  actions:
+    - label: "About Me"
+      url: "/about/"
+excerpt: >
+ Physics Grad jumping aboard the AI train.<br />
+  <small>I would Like to be a <a href="https://distill.pub/2017/research-debt/">distiller</a> of knowledge.</small>
+feature_row:
+  - image_path: /assets/images/place.png
+    alt: "customizable"
+    title: "Blog"
+    excerpt: "Here I try to teach what I have learned and try to ask and answer interesting questions."
+    url: "/blog/"
+    btn_class: "btn--primary"
+    btn_label: "View Blog"
+  - image_path: /assets/images/place2.png
+    alt: "fully responsive"
+    title: "Journal"
+    excerpt: "A somewhat daily journal where I keep track of short TIL (Today I learned) nuggets and other recurring tasks."
+    url: "/journal/"
+    btn_class: "btn--primary"
+    btn_label: "View Journal"
+  - image_path: /assets/images/place3.png
+    alt: "100% free"
+    title: "Projects"
+    excerpt: "Projects, resulting from whatever half baked ideas thrown into the oven at medium heat."
+    url: "/PyPayroll/"
+    btn_class: "btn--primary"
+    btn_label: "View Projects"      
 ---
+
+{% include feature_row %}

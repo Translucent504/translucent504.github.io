@@ -11,7 +11,7 @@ tags:
   - sociology
 ---
 
->Sociological Theorists Summary
+>Sociological Theorists Summary CSS
 
 <!--more-->
 
