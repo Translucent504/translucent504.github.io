@@ -1,5 +1,5 @@
 ---
-title: "[TIL] 02-Feb-2021"
+title: "SQL LEFT JOIN with an extra condition"
 excerpt_separator: "<!--more-->"
 categories:
   - today-i-learned
